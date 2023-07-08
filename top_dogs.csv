@@ -1,0 +1,701 @@
+,year,breed,dog,owner(s),group,BIS,won
+0,2023,English Setter,GCHB CH Winchester's An Apple A Day JH,S Nordstrom & C Hodges & R Barnes & S McGraw & A & K Bernardin,Sporting,False,1
+1,2022,English Setter,GCHS CH Ciara N' Honeygait Belle Of The Ball FDC CGC,Van Jacobsen & Lee Afdahl & Amanda & Vito Ciaravino,Sporting,False,1
+2,2021,German Shorthaired Pointer,GCHS CH Clarity Reach The sky VJK-Myst,V. Nunes-Atkinson & Yvonne Hassler-Deterding & C Simpson & C Malcolm,Sporting,False,1
+3,2020,Golden Retriever,GCHP CH Hillock's Jack Daniel's RA JH CA RATN CGC ,"Tammy Tomlinson , Jim Cohen & Robert Samios",Sporting,False,1
+4,2019,Sussex Spaniel,GCh. Kamand’s Full Of Beans @ Erinhill,Karen Ann Toner & Amanda W Toner,Sporting,False,1
+5,2018,Sussex Spaniel,GCh. Kamand’s Full Of Beans @ Erinhill,Karen Ann Toner & Amanda W Toner,Sporting,False,1
+6,2017,Irish Setter,GCh. Vermilion’s Sea Breeze,Sandra Nordstrom & Bruce Foote & Mary Foote,Sporting,False,1
+7,2016,German Shorthaired Pointer,GCh. Vjk-Myst Garbonita’s California Journey,Valerie Nunes-Atkinson & Alice Manning & Yvonne Hassler-Deterding,Sporting,True,2
+8,2015,English Springer Spaniel,GCh. Wynmoor Sweetgrass White Diamonds,Dr. Erin Kerfoot & Billie Kerfoot & Dr. Alison Smith,Sporting,False,1
+9,2014,Irish Water Spaniel,GCh. Whistlestop’s Riley On Fire,Tom & Bethany Urban & Gregory M. Siner,Sporting,False,1
+10,2013,German Wirehaired Pointer,GCh. Mt View’s Ripsnortersilvercharm,"Victor Malzoni, Jr.",Sporting,False,1
+11,2012,Irish Setter,GCh. Shadagee Caught Red Handed,Debra S. Burke & Nancy Lee Conner,Sporting,False,1
+12,2011,Cocker Spaniel (Black),GCh. Casablanca’s Thrilling Seduction,Bruce Vandeman & Carolee Douglas & Mary Walker & Cindy Cassidy & Linda Moore,Sporting,False,1
+13,2010,Brittany,Ch. Willowick Talltean,Catherine Fitzgerald,Sporting,False,1
+14,2009,Sussex Spaniel,Ch. Clussexx Three D Grinchy Glee,Cecilia Ruggles & Beth Dowd & Scott Sommer,Sporting,True,2
+15,2008,Weimaraner,Ch. Colsidex Seabreeze Perfect Fit,Ellen M Charles & Alessandra Folz & Judy Cola,Sporting,False,1
+16,2007,English Springer Spaniel,Ch. Felicity’s Diamond Jim,Teresa Patton & Allen Patton & R. Dehmel & D. Hadsall,Sporting,True,2
+17,2006,Golden Retriever,Ch. Chuckanut Party Favour O Novel,Wayne Miller & Ken Matthews,Sporting,False,1
+18,2005,German Shorthaired Pointer,Ch. Kan-Point’s VJK Autumn Roses,L. & R. Stark & C. Cronk & V. Nunes-Atkinson,Sporting,True,2
+19,2004,Sussex Spaniel,Ch. Clussexx Three D Grinchy Glee,Cecilia Ruggles & Beth Dowd,Sporting,False,1
+20,2003,Brittany,Ch. Magic Sir-Ly You Jest,"C. Douglas, N. Otterson, J. Bates & B. Collier",Sporting,False,1
+21,2002,Brittany,Ch. Magic Sir-Ly You Jest,"C. Douglas, N. Otterson, J. Bates & B. Collier",Sporting,False,1
+22,2001,Flat-Coated Retriever,Ch. Flatford Zeus The Major God JH,Dr. R. & S. Rickert & M. & M. Farwell,Sporting,False,1
+23,2000,English Springer Spaniel,Ch. Salilyn ‘N Erin’s Shameless,"C. Blain, F Sunseri & J. Gasow",Sporting,True,2
+24,1999,Gordon Setter,Ch. Bit O Gold Titan Treasure,"J. Browne, P. Nowak & S. Lubrand",Sporting,False,1
+25,1998,Gordon Setter,Ch. Bit O Gold Titan Treasure,"J. Browne, P Nowak & S Lubrand",Sporting,False,1
+26,1997,Gordon Setter,Ch. Bit O Gold Titan Treasure,"J. Browne, C. Pagurski & P. Nowak",Sporting,False,1
+27,1996,Clumber Spaniel,Ch. Clussexx Country Sunrise,Judith & Richard Zaleski,Sporting,True,2
+28,1995,Cocker Spaniel (Black),Ch. La Shay’s Bart Simpson,Samuel B. & Marion W. Lawrence,Sporting,False,1
+29,1994,Cocker Spaniel (Parti-Color),Ch. Kane Venture Heaven Gait,"C. Paul, S. Bailey & D. Kane",Sporting,False,1
+30,1993,English Springer Spaniel,Ch. Salilyn’s Condor,"D. & R. Herzig, MD & J. Gasow",Sporting,True,2
+31,1992,English Springer Spaniel,Ch. Salilyn’s Condor,"D. & R. Herzig, MD & J. Gasow",Sporting,False,1
+32,1991,Irish Water Spaniel,Ch. Mallyree Triple Expectation CDX JH,Mr. & Mrs. J. Vaudo & G. Garey,Sporting,False,1
+33,1990,Irish Water Spaniel,Ch. Mallyree Triple Expectation CDX JH,Gemma Garey,Sporting,False,1
+34,1989,Pointer,Ch. Luftnase Albelarm Bee’s Knee’s,Mrs. Alan R. Robson & Michael F. Zollo,Sporting,False,1
+35,1988,German Shorthaired Pointer,Ch. NMK’s Brittania V Sibelstein,Dr. Gary D. Stone & Carol Chadwick,Sporting,False,1
+36,1987,German Shorthaired Pointer,Ch. NMK’s Brittania V Sibelstein,Dr. Gary D. Stone & Carol Chadwick,Sporting,False,1
+37,1986,Pointer,Ch. Marjetta’s Nation Acclaim,Mrs. Alan R. Robson & Michael Zollo,Sporting,True,2
+38,1985,Gordon Setter,Ch. Gordon Hill Alabama Slammer,"C. Fitzgerald, S. DeSilver & J. Bandes",Sporting,False,1
+39,1984,Irish Setter,Ch. Meadowlark’s Anticipation,Judy Boston-Rayne & Cindy Trefrey,Sporting,False,1
+40,1983,Vizsla,Ch. Harann’s Tulipann,Charles Spalding & Anne Denehy,Sporting,False,1
+41,1982,English Setter,Ch. Drummont’s Tasty’s Billy,David Ruml & E. F. Zimmerman,Sporting,False,1
+42,1981,Cocker Spaniel (Parti-Color),Ch. Kamps’ Kaptain Kool,Mrs. Byron A. Covey & Mai Wilson,Sporting,False,1
+43,1980,Gordon Setter,Ch. Ben-Wen’s Benjy McDee,Marie Annello & B. Perlstein,Sporting,False,1
+44,1979,Irish Water Spaniel,Ch. Oaktree’s Irishtocrat,Mrs. Anne E. Snelling,Sporting,True,2
+45,1978,Irish Setter,Ch. Powderhorn Yankee Rifleman,Mrs. Cheever Porter,Sporting,False,1
+46,1977,Irish Water Spaniel,Ch. Oaktree’s Irishtocrat,Mrs Anne E. Snelling,Sporting,False,1
+47,1976,English Springer Spaniel,Ch. Loujon Executor,JoAnn Larsen,Sporting,False,1
+48,1975,Gordon Setter,Ch. Afternod Yank of Rockaplenty,Mrs. W. W. Clark,Sporting,False,1
+49,1974,German Shorthaired Pointer,Ch. Gretchenhof Columbia River,Dr. Richard P. Smith,Sporting,True,2
+50,1973,Cocker Spaniel (A.S.C.O.B.),Ch. Sagamore Toccoa,Peggy Westphal,Sporting,False,1
+51,1972,English Springer Spaniel,Ch. Chinoe’s Adamant James,Dr. Milton E .Prickett,Sporting,True,2
+52,1971,English Springer Spaniel,Ch. Chinoe’s Adamant James,Dr. Milton E. Prickett,Sporting,True,2
+53,1970,Pointer,Ch Counterpoint’s Lord Ashley,Wiliam A. Metz,Sporting,False,1
+54,1969,English Springer Spaniel,Ch. Magill’s Patrick CD,Wayne D. Magill,Sporting,False,1
+55,1968,Golden Retriever,Ch. Cragmount’s Hi-Lo,Mrs. Charles W. Engelhard,Sporting,False,1
+56,1967,English Springer Spaniel,Ch Salilyn’s Aristocrat,Mrs. F. H. Gasow,Sporting,False,1
+57,1966,Irish Setter,Ch. Blayneywood Country Squire,Marion T. Darling,Sporting,False,1
+58,1965,Weimaraner,Ch. Gronbach’s Aladdin,Robert C. Gronbach,Sporting,False,1
+59,1964,Pointer,Ch. Crookrise Danny of Muick,Mr. & Mrs. Floyd B. Evans,Sporting,False,1
+60,1963,English Springer Spaniel,Ch. Wakefield’s Black Knight,Mrs. W. J. S. Borie,Sporting,True,2
+61,1962,Weimaraner,Ch. Val Knight Ranck,John Boehne,Sporting,False,1
+62,1961,Cocker Spaniel (Parti-Color),Fraclin Colonel Caridas,Mrs. Clinton Bishop,Sporting,False,1
+63,1960,Cocker Spaniel (A.S.C.O.B.),Ch. Pinetop’s Fancy Parade,"W. J. Laffoon, Jr. & Mrs. Rose Robbins",Sporting,False,1
+64,1959,Irish Water Spaniel,Ch. Kalibank’s Water Gate Wandrer,Water Gate Kennels,Sporting,False,1
+65,1958,Irish Setter,Kinvarra Kimson,Louis S. King,Sporting,False,1
+66,1957,Cocker Spaniel (Black),Ch. Gail’s Ebony Don D,Mr. & Mrs. Roy O. Nelson,Sporting,False,1
+67,1956,English Setter,Ch. Rock Falls Colonel,William T. Holt,Sporting,False,1
+68,1955,English Springer Spaniel,Ch. King Peter of Salilyn,Mrs. F. H. Gasow,Sporting,False,1
+69,1954,Cocker Spaniel (A.S.C.O.B.),Ch. Carmor’s Rise & Shine,Mrs. Carl E. Morgan,Sporting,True,2
+70,1953,Irish Setter,Ch. Thenderin Brain Tristan,Mr. & Mrs. J. R. Fraser,Sporting,False,1
+71,1952,English Setter,Ch. Rock Falls Colonel,William T. Holt,Sporting,False,1
+72,1951,Pointer,Ch. Captain Speck,Charles Palmer,Sporting,False,1
+73,1950,Pointer,C P,Charles Palmer,Sporting,False,1
+74,1949,Irish Setter,Ch. Knightscroft Symphony,Miss Helen Naylor,Sporting,False,1
+75,1948,English Springer Spaniel,Ch. Frejax Royal Salute,Fred Jackson,Sporting,False,1
+76,1947,Pointer,Ch. Beacon’s Game Lad,Leo A. Dunn,Sporting,False,1
+77,1946,EnglishSetter,Ch. Prune’s Own Palmer,Prune’s Own Kennels,Sporting,False,1
+78,1945,Cocker Spaniel (Black),Ch. Stockdale Town Talk,C. B. Van Meter,Sporting,False,1
+79,1944,Irish Setter,Ch. Kleiglight of Aragon,Aragon Kennels,Sporting,False,1
+80,1943,Irish Water Spaniel,Ch. Mahoney’s O’Toole,Mrs. Charles M. Wynns,Sporting,False,1
+81,1942,English Springer Spaniel,Ch. Timpanogos Melinda,R. E. Allen,Sporting,False,1
+82,1941,Cocker Spaniel (Black),Ch. My Own Brucie,H. E. Mellenthin,Sporting,True,2
+83,1940,Cocker Spaniel (Black),Ch. My Own Brucie,H. E. Mellenthin,Sporting,True,2
+84,1939,Cocker Spaniel (Black),Ch. My Own Brucie,H. E. Mellenthin,Sporting,False,1
+85,1938,English Setter,Daro of Maridor,Maridor Kennels,Sporting,True,2
+86,1937,Cocker Spaniel (Parti-Color),Ch. Torohill Smoky,Peter Dunne Garvan,Sporting,False,1
+87,1936,Irish Setter,Ch. Milson O’Boy,Mrs. Cheever Porter,Sporting,False,1
+88,1935,Pointer,Ch. Nancolleth Marquis,Giralda Farms,Sporting,False,1
+89,1934,Pointer,Ch. Benson of Crombie,Giralda Farms,Sporting,False,1
+90,1933,English Springer Spaniel,Ch. Norman of Hamsey,Blue Leader Kennels,Sporting,False,1
+91,1932,Pointer,Nancolleth Markable,Giralda Farms,Sporting,True,2
+92,1931,English Setter,Ch. Blue Dan of Happy Valley,Happy Valley Kennels,Sporting,False,1
+93,1930,Irish Setter,Ch. Delawne Kate,Ernest W. Snoot,Sporting,False,1
+94,1929,Pointer,Ch. Herewithem JP,Robert F. Maloney,Sporting,False,1
+95,1928,Beagle (15″),Meadowlark Fearnot,Gustave M. Mosler,Sporting,False,1
+96,1927,Pointer,Ch. Dapple Joe,Rumson Farm Kennels,Sporting,False,1
+97,1926,Pointer,Ch. Nancolleth Belle,W. T. Payne,Sporting,False,1
+98,1925,Pointer,Ch. Governor Moscow,Robert F. Maloney,Sporting,True,2
+99,1924,Cocker Spaniel (Parti-Color),Ch. Midkiff Miracle Man,W. T. Payne,Sporting,False,1
+0,2023,Giant Schnauzer,GCH CH Hearthmore's Wintergreen Mountain RN CGC TKN,Katherine Bernardin & Cherlann Ambrose & Sandra Nordstrom,Working,False,1
+1,2022,Samoyed,GCHP CH Vanderbilt 'N Printemp's Lucky Strike,Correen R Pacht & Marc Ralsky & Judi Elford & Blair Elford,Working,False,1
+2,2021,Samoyed,GCHG CH Vanderbilt 'N Printemp's Lucky Strike,Correen R Pacht & Marc Ralsky & Judi Elford & Blair Elford,Working,False,1
+3,2020,Boxer,GCh. Cinnibon's Bedrock Bombshell,Keith & Cheryl Robbins & Bonnie Wagaman & Debbie Caywood,Working,False,1
+4,2019,Boxer,GCh. Cinnibon's Bedrock Bombshell,Keith & Cheryl Robbins & Bonnie Wagaman & Debbie Caywood,Working,False,1
+5,2018,Giant Schnauzer,GCh. Ingebar’s Tynan Dances With Wildflowers,Sandra Nordstrom & Carol Mann & Maryann Bisceglia,Working,False,1
+6,2017,Boxer,GCh. Mephisto’s Speak of the Devil,Mrs Jack Billhardt & Sergio Tenenbaum,Working,False,1
+7,2016,Samoyed,GCh. Pebbles’ Run Play It Again Ham,Amy Kiell Green & Andrew Green & Barbara Bruns & Wolfgang Stamp,Working,False,1
+8,2015,Portuguese Water Dog,GCh. Claircreek Impression De Matisse,Milan Lint & Peggy Helming & Donna Gottdecker,Working,False,1
+9,2014,Portuguese Water Dog,GCh. Claircreek Impression De Matisse,Milan Lint & Peggy Helming & Donna Gottdecker,Working,False,1
+10,2013,Portuguese Water Dog,GCh. Claircreek Impression De Matisse,Milan Lint & Peggy Helming & Donna Gottdecker,Working,False,1
+11,2012,Doberman Pinscher,GCh. Protocol’s Veni Vidi Vici,Suzy Lundy & Dick Lundy & Jocelyn Mullins & Kevin Mullins,Working,False,1
+12,2011,Portuguese Water Dog,GCh. Aviators Luck Be A Lady,"Victor Malzoni, Jr. & Jerson Valle & Mike Dugan & Cathy Dugan",Working,False,1
+13,2010,Doberman Pinscher,Ch. Allure Blazing Star Alisaton,Nancy Bosley & Julie Porter & Carmen Pitts,Working,False,1
+14,2009,Giant Schnauzer,Ch. Galilee’s Pure Of Spirit,Mary Hayes & Joe & Carla Sanchez,Working,False,1
+15,2008,Akita,Ch. Redwitch Reason To Believe,Roger Rechler,Working,False,1
+16,2007,Akita,Ch. Redwitch Reason To Believe,Roger Rechler,Working,False,1
+17,2006,Rottweiler,Ch. Carter’s Noble Shaka Zulu,Keith Carter,Working,False,1
+18,2005,Great Pyrenees,Ch. Dieudonne Impyrial Acclaim,Kyle A. Simons & P. J. Midgorden & P. Bruneau & K. Bruneau,Working,False,1
+19,2004,Newfoundland,Ch. Darbydale’s All Rise Pouchcove,Peggy Helming & Carol Bernard Bergmann,Working,True,2
+20,2003,Newfoundland,Ch. Darbydale’s All Rise Pouchcove,Peggy Helming & Carol Bernard Bergmann,Working,False,1
+21,2002,Standard Schnauzer,Ch. Charisma Jailhouse Rock,Constance C. Adel,Working,False,1
+22,2001,Standard Schnauzer,Ch. Charisma Jailhouse Rock,Constance C. Adel,Working,False,1
+23,2000,Doberman Pinscher,Ch. Ravenswood Southern Cross,Don & Betty Clark,Working,False,1
+24,1999,Bernese Mountain Dog,Ch. Mentmore’s Windy Meadow,Caroline Taylor Woods,Working,False,1
+25,1998,Alaskan Malamute,Ch. Nanuke’s Take No Prisoners,"Dr. W. Newman, K. Leuer & S. D’Andrea",Working,False,1
+26,1997,Standard Schnauzer,Ch. Parsifal Di Casa Netzer,Rita Holloway & Gabrio Del Torre,Working,True,2
+27,1996,Boxer,Ch. Turo’s Futurian Of Cachet,Jeff Bennett & Nan EIsley-Bennett,Working,False,1
+28,1995,Akita,Ch. Tobe’s Return Of The Jedai,Ruth Winston,Working,False,1
+29,1994,Boxer,Ch. Hi-Tech’s Arbitrage,Dr. & Mrs. William Truesdale,Working,False,1
+30,1993,Komondor,Ch. Lojosmegyi Dahu Digal,Patricia Turner & Anna Quigley,Working,False,1
+31,1992,Bullmastiff,Ch. Mr U’s Music Man,"Bill Underwood, Janet & David Morris",Working,False,1
+32,1991,Boxer,Ch. Kiebla’s Tradition of Turo,Bruce & Jeannie Korson,Working,False,1
+33,1990,Giant Schnauzer,Ch. Skansen’s I Have A Dream,Marcia Nanci,Working,False,1
+34,1989,Doberman Pinscher,"Ch. Royal Tudor’s Wild As The Wind, CD","S. & A. Korp, B. Wilhite, R. & C. Vida",Working,True,2
+35,1988,Doberman Pinscher,Ch. Royal Tudor’s Wild As The Wind CD,"S. & A. Korp, B. Wilhite",Working,False,1
+36,1987,Boxer,Ch. TuRo’s Cachet,Leonard & Susan Magowitz,Working,False,1
+37,1986,Boxer,Ch. TuRo’s Cachet,Leonard & Susan Magowitz,Working,False,1
+38,1985,Bernese Mountain Dog,Ch. Shersan Chan O’Pace V Halidom,Robert & Carolyn Kinley,Working,False,1
+39,1984,Newfoundland,Ch. Seaward’s Blackbeard,"Seaward Kennels, Reg.",Working,True,2
+40,1983,Great Dane,Ch. C & B’s Special-K Gribbin,J. & F. Campbell & J. & M. Benjamin,Working,False,1
+41,1982,German Shepherd Dog,Ch. Beech Hills Benji Von Masco,Mary Ellen Thomas,Working,False,1
+42,1981,Briard,Ch. Phydeaux What’s Happenin’,M. L. Tingley & Ira Ackerson,Working,False,1
+43,1980,Siberian Husky,Ch. Innisfree’s Sierra Cinnar,Kathleen Kanzler,Working,True,2
+44,1979,Doberman Pinscher,Ch. Marienburg’s Mary Hartman,Mary M. Rodgers & Moe M. Miyagawa,Working,False,1
+45,1978,Newfoundland,Ch. Companionway’s Sir Walter,"Robert T. Montbach, DMV",Working,False,1
+46,1977,Old English Sheepdog,Ch. Loyalblu Hendihop,Loyalblu Reg. & D. & L. Boerner,Working,False,1
+47,1976,Welsh Corgi (Pembroke),Ch. Bear Acres Mister Snowshoes CD,Mrs. Frank Hayward,Working,False,1
+48,1975,Old English Sheepdog,Ch. Sir Lancelot of Barvan,Barbara Vanword,Working,True,2
+49,1974,Doberman Pinscher,Ch. Galaxy’s Corry Missile Belle,Elaine Hernden & Mr. & Mrs. N. J. Reese,Working,False,1
+50,1973,Boxer,Ch. Regency’s Nite Life,Barbara H. Murray,Working,False,1
+51,1972,Welsh Corgi (Pembroke),Ch. Nebriowa Miss Bobbi Sox,Mr. & Mrs. Derek Rayne,Working,False,1
+52,1971,Standard Schnauzer,Ch. Pavo de la Steingasse,Mrs. Margaret S. Smith,Working,False,1
+53,1970,Boxer,Ch. Arriba’s Prima Donna,Dr. & Mrs. P. J. Pagano & Dr. T. Fickes,Working,True,2
+54,1969,Old English Sheepdog,Ch. Prince Andrew of Sherline,Mr. & Mrs. Howard Sherline,Working,False,1
+55,1968,German Shepherd,Ch. Bar von Weiherturchen,Barbara Schermerhorn,Working,False,1
+56,1967,Old English Sheepdog,Ch. Fezziwig Raggedy Andy,Serena & Hendrik Van Rensselaer,Working,False,1
+57,1966,Old English Sheepdog,Ch. Fezziwig Raggedy Andy,Serena & Hendrik Van Rensselaer,Working,False,1
+58,1965,Boxer,Ch. Salgray’s Fashion Plate,Mr. & Mrs. Daniel Hamilburg,Working,False,1
+59,1964,Boxer,Ch. Treceder’s Painted Lady,Donald & Mary Smith,Working,False,1
+60,1963,Boxer,Ch. Treceder’s Painted Lady,Donald & Mary Smith,Working,False,1
+61,1962,Great Dane,Ch. Honey Bun of Marydane,Erna Huber,Working,False,1
+62,1961,Boxer,Ch. Marquam’s Hill’s Comanche,Dr. & Mrs. Robert W. Burke,Working,False,1
+63,1960,Pembroke Welsh Corgi,Ch. Cote de Neige Sundew,Mrs. William B. Long,Working,False,1
+64,1959,Great Dane,Ch. Honey Hollow Stormi Rudio,Cathryn Clarke,Working,False,1
+65,1958,Boxer,Ch. Marjack’s Golden Windjammer,Mr. & Mrs. John P Wagner,Working,False,1
+66,1957,Boxer,Ch. Barrage of Quality Hill,Mr. & Mrs. Jouett Shouse,Working,False,1
+67,1956,Boxer,Ch. Baroque of Quality Hill,Mr. & Mrs. John P.Wagner,Working,False,1
+68,1955,Boxer,Barrage of Quality Hill,"Mr. & Mrs. M. E. Greiner, Jr.",Working,False,1
+69,1954,Boxer,Ch. Spark Plug,Larry Downey,Working,False,1
+70,1953,Doberman Pinscher,Ch. Rancho Dobe’s Storm,Len Carey,Working,True,2
+71,1952,Doberman Pinscher,Ch. Rancho Dobe’s Storm,Len Carey,Working,True,2
+72,1951,Boxer,Ch. Bang Away of Sirrah Crest,Dr. & Mrs R. C. Harris,Working,True,2
+73,1950,German Shepherd,Ch. Quell vam Fredeholz,Anton B. Korbel & Howard Newman,Working,False,1
+74,1949,Boxer,Ch. Mazelaine’s Zazarac Brandy,Mr. & Mrs. John P. Wagner,Working,True,2
+75,1948,Doberman Pinscher,Ch. Emperor of Marienland,Meadow Mist Kennels,Working,False,1
+76,1947,Boxer,Ch. Warlord of Mazelaine,"Mr. & Mrs. R. C. Kettles, Jr.",Working,True,2
+77,1946,Boxer,Ch. Warlord of Mazelaine,"Mr. & Mrs. R. C. Kettles, Jr.",Working,False,1
+78,1945,Doberman Pinscher,Ch. Dictatorv. Glenhugel,Capt. & Mrs Bob Adamson,Working,False,1
+79,1944,Boxer,Warlord of Mazelaine,"Mr. & Mrs. R. C. Kettles, Jr.",Working,False,1
+80,1943,Shetland Sheepdog,Ch. Windrush O’Page’s Hill,Mrs. Wm. W. Gallagher,Working,False,1
+81,1942,Old English Sheepdog,Ch. Merriedip Master Pantaloons,Mrs. Helen M. Lewis,Working,False,1
+82,1941,Collie (Rough),Ch. Cadet of Noranda,"Mr. & Mrs. Wm. H. Lon,g Jr.",Working,False,1
+83,1940,Boxer,Ch. Utz v.Dom of Mazelaine,John Phelps Wagner,Working,False,1
+84,1939,Doberman Pinscher,Ferry v.Rauhfelsen,Giralda Farms,Working,True,2
+85,1938,Collie,Ch. Hertzville Headstone,C. J. Cassleman,Working,False,1
+86,1937,Boxer,Ch. Dorian v. Marienhof of Mazelaine,John Phelps Wagner,Working,False,1
+87,1936,German Shepherd,Ch. Dewet yon der Starrenburg,Giralda Farms,Working,False,1
+88,1935,Collie,Ch. Bellhaven Black Lucason,Florence B. Ilch,Working,False,1
+89,1934,Old English Sheepdog,Snowflake,Clearbrook Kennels,Working,False,1
+90,1933,Great Dane,Ch. Gunar v. Hollergarten of Walnut Hill,Harkness Edwards,Working,False,1
+91,1932,Old English Sheepdog,Snowman,F. T. James,Working,False,1
+92,1931,Great Dane,Gunar v. Hollergarten of Walnut Hill,Harkness Edwards,Working,False,1
+93,1930,Shepherd Dog,Giralda’s Lola,Giralda Farms,Working,False,1
+94,1929,Collie (Rough),Laund Loyalty of Bellhaven,Florence B Ilch,Working,True,2
+95,1928,Shepherd Dog,Ch. Cito Von Der Marktfeste,Giralda Farms,Working,False,1
+96,1927,Collie (Rough),Southport Blue Knight,Bournbrae Kennels,Working,False,1
+97,1926,Collie (Rough),Laund Hero of Bellhaven,Florence B. Ilch,Working,False,1
+98,1925,Doberman Pinscher,Westphalia Prinsessin Ilisa VD Konigstad,Westphalia Kennels,Working,False,1
+99,1924,Shepherd Dog,Ch. Dolf Von Dusternbrook,Joselle Kennels,Working,False,1
+0,2023,American Staffordshire Terrier,GCHP CH Lbk's Rebel And Proud Party Crasher,Traci Chlan Luisma & Lacey Benitez & Ion Ispas & Jessica Branch,Terrier,False,1
+1,2022,Lakeland Terrier,GCHG CH Hi-Kel Terrydale Nanhall Mizzconceived,Maripi Wooldridge & Jennifer Stevens & Ariel Cukier,Terrier,False,1
+2,2021,West Highland White Terrier,GCHG CH Crystal Boy De La Pomme,Phavida Jaruthavee & Frederic B Askin MD & Fred Melville,Terrier,False,1
+3,2020,Wire Fox Terrier,GCHB. CH Irvonhill Voignier,George & Nannette Herrick,Terrier,False,1
+4,2019,Wire Fox Terrier,GCh. King Arthur Van Foliny Home,Victor Malzoni Jr ,Terrier,True,2
+5,2018,Norfolk Terrier,GCh. Yarrow Venerie Winning Ticket,Victor Malzoni Jr & Nancy Shaw & Pam Beale,Terrier,False,1
+6,2017,Norwich Terrier,GCh. Taliesin Twice As Nice,Lisa Sons,Terrier,False,1
+7,2016,Skye Terrier,GCh. Cragsmoor Good Time Charlie,"Victor Malzoni, Jr. & Cragsmoor Kennels Reg.",Terrier,False,1
+8,2015,Skye Terrier,GCh. Cragsmoor Good Time Charlie,"Victor Malzoni, Jr. & Cragsmoor Kennels Reg.",Terrier,False,1
+9,2014,Wire Fox Terrier,GCh. Afterall Painting The Sky,"Victor Malzoni, Jr. & Torie Steele & S. & M. Olund & D. Ryan",Terrier,True,2
+10,2013,Smooth Fox Terrier,GCh. Slyfox Sneak’s A Peek,J. W. Smith,Terrier,False,1
+11,2012,Kerry Blue Terrier,GCh. Perrisblu Kennislain’s Chelsey,Ed & Lynn Yingling & Phil Davies & Candace Yingling & Brock Yingling,Terrier,False,1
+12,2011,Smooth Fox Terrier,GCh. Slyfox Sneak’s A Peek,J. W. Smith,Terrier,False,1
+13,2010,Scottish Terrier,Ch. Roundtown Mercedes Of Maryscot,Amelia Musser,Terrier,True,2
+14,2009,Scottish Terrier,Ch. Roundtown Mercedes Of Maryscot,Amelia Musser,Terrier,False,1
+15,2008,Sealyham Terrier,Ch. Efbe’s Hidalgo At Goodspice,Margery Good & Richard Good & Sandra Middlebrooks,Terrier,False,1
+16,2007,Dandie Dinmont Terrier,Ch. Hobergays Fineus Fogg,"Dr. Emma Greenway & Jean Heath & Dr. William H. Cosby, Jr.",Terrier,False,1
+17,2006, Bull Terrier (Colored),Ch. Rocky Top’s Sundance Kid,Barbara Bishop & W. F. Poole & N. Shepherd & R. P. Poole,Terrier,True,2
+18,2005,Norfolk Terrier,Ch. Cracknor Cause Celebre,"Pamela Beale, Stephanie Ingram & Elisabeth Matell",Terrier,False,1
+19,2004,Norfolk Terrier,Ch. Cracknor Cause Celebre,"Pamela Beale, Stephanie Ingram & Elisabeth Matell",Terrier,False,1
+20,2003,Kerry Blue Terrier,Ch. Torum’s Scarf Michael,Marilu Hansen,Terrier,True,2
+21,2002,Kerry Blue Terrier,Ch. Torum’s Scarf Michael,Marilu Hansen,Terrier,False,1
+22,2001,Kerry Blue Terrier,Ch. Torum’s Scarf Michael,Marilu Hansen,Terrier,False,1
+23,2000,Bedlington Terrier,Ch. Willow Wind Tenure,Carol C. Greenwald,Terrier,False,1
+24,1999,Welsh Terrier,Ch. Sunspryte’s Just In Thyme,"J. L. Heath, W. H. Cosby, Jr. & B. Bates",Terrier,False,1
+25,1998,Norwich Terrier,Ch. Fairewood Frolic,Sandina Kennels,Terrier,True,2
+26,1997,Wire Fox Terrier,Ch. Random Reaction,W. James & Taffe McFadden,Terrier,False,1
+27,1996,Skye Terrier,Ch. Finnsky Oliver,"E. Z. Zaphiris, M. Stander, K. & M. Sainio",Terrier,False,1
+28,1995,Scottish Terrier,Ch. Gaelforce Post Script,Dr. Joe Kinnarney & Dr. Vandra L. Huber,Terrier,True,2
+29,1994,Norwich Terrier,Ch. Chidley Willum The Conqueror,Ruth L. Cooper & Patricia P. Lussier,Terrier,True,2
+30,1993,Dandie Dinmont,Ch. Pennywise The Butler Did It,Catherine B. Nelson,Terrier,False,1
+31,1992,Wire Fox Terrier,Ch. Registry’s Lonesome Dove,Marion & Samuel Lawrence,Terrier,True,2
+32,1991,Kerry Blue Terrier,Ch. Kerrageen’s Hotspur,Bryan Percy & Judy Hertwill,Terrier,False,1
+33,1990,Wire Fox Terrier,Ch. Saphire Star of Silverbush,Don Brouillette & Andrew Digiorgio,Terrier,False,1
+34,1989,Soft Coated Wheaten Terrier,Ch. Andover Song ‘N Dance Man,Cynthia Vogels & Jacqueline Gottlieb,Terrier,False,1
+35,1988,Cairn Terrier,Ch. Tidewater Master Gold,"Charles P. Merrick, III",Terrier,False,1
+36,1987,Wire Fox Terrier,Ch. Sylair Special Edition,"Jean L. Heath & William H. Cosby, Jr.",Terrier,False,1
+37,1986,Welsh Terrier,Ch. Anasazi Annie Oakley,"J. L. Heath & W. H. Cosby, Jr. & Reglib Kennels",Terrier,False,1
+38,1985,Scottish Terrier,Ch. Braeburn’s Close Encounter,Sonnie & Alan Novick,Terrier,True,2
+39,1984,Scottish Terrier,Ch. Braeburn’s Close Encounter,Sonnie & Alan Novick,Terrier,False,1
+40,1983,Sealyham Terrier,Ch. Snowdon Sneak Preview,Sarah W. Sweatt,Terrier,False,1
+41,1982,Colored Bull Terrier,Ch. Banbury Benson of Bedrock,W.E Mackay-Smith & J & M Remer,Terrier,False,1
+42,1981,Smooth Fox Terrier,Ch. Ttarb the Brat,Dr. J. Van Zandt & Ed Dalton,Terrier,False,1
+43,1980,Lakeland Terrier,Ch. Cozy’s Mischief Maker,Miss Sachiko Takada,Terrier,False,1
+44,1979,Lakeland Terrier,Ch. Cozy’s Mischief Maker,"Crag Crest Kennels, Reg.",Terrier,False,1
+45,1978,Wire Fox Terrier,Ch. Sunnybrook Spot-On,"Mrs. Robert V. Clark, Jr.",Terrier,False,1
+46,1977,Sealyham Terrier,Ch. Dersade Bobby’s Girl,Pool Forge Kennels,Terrier,True,2
+47,1976,Lakeland Terrier,Ch. Jo-Ni’s Red Baron of Crofton,Mrs. Virginia K. Dickson,Terrier,True,2
+48,1975,West Highland White Terrier,Ch. Ardenrun Andsome of Purston,Dr. Alcaro T. Hunt,Terrier,False,1
+49,1974,Wire Fox Terrier,Ch. Sunnybrook Spot On,"Mrs. Robert V. Clark, Jr.",Terrier,False,1
+50,1973,Wire Fox Terrier,Ch. Littleway Haranwal Barrister,Jane Esther Henderson,Terrier,False,1
+51,1972,Skye Terrier,Ch. Glamoor Gang Buster,Walter F. Goodman & Mrs. Adele Goodman,Terrier,False,1
+52,1971,Kerry Blue Terrier,Ch. O’Connell of Kerry Oaks,Florence Coe,Terrier,False,1
+53,1970,Wire Fox Terrier,Ch. Holmwire Tudor Reliants,Steve Farber,Terrier,False,1
+54,1969,Skye Terrier,Ch. Glamoor Good News,Walter F. Goodman & Mrs. Adele Goodman,Terrier,True,2
+55,1968,Lakeland Terrier,Ch. Stingray of Derryabah,"Mr. & Mrs. James A. Farrell, Jr.",Terrier,True,2
+56,1967,Scottish Terrier,Ch. Bardene Bingo,E. H. Stuart,Terrier,True,2
+57,1966,Wire Fox Terrier,Ch. Zeloy Mooremaides Magic,Marion G. Bunker,Terrier,True,2
+58,1965,Scottish Terrier,Ch. Carmichaels Fanfare,Mr. & Mrs. Charles C. Stalter,Terrier,True,2
+59,1964,Sealyham Terrier,Ch. Alcide of Axe,Pool Forge Kennels,Terrier,False,1
+60,1963,Airedale Terrier,Ch. Querencia’s Suorte Brava,Ercilia E. Le Ny,Terrier,False,1
+61,1962,West Highland White Terrier,Ch. Elfinbrook Simon,Wishing Well Kennels,Terrier,True,2
+62,1961,Scottish Terrier,Ch. Blanart Bewitching,Blanche E. Reeg,Terrier,False,1
+63,1960,Scottish Terrier,Ch. Blanart Bewitching,Blanche E. Reeg,Terrier,False,1
+64,1959,Welsh Terrier,Strathglass Trim Maid,Strathglass Kennels,Terrier,False,1
+65,1958,Wire Fox Terrier,Empire Sensational,Mrs. Munro W. Lanier,Terrier,False,1
+66,1957,Airedale Terrier,Westhay Fiona of Harham,Harold M. Florsheim,Terrier,False,1
+67,1956,Sealyham Terrier,Ch. Robin Hill Brigade,Mrs. Robert E. Choate,Terrier,False,1
+68,1955,Sealyham Terrier,Ch. Robin Hill Brigade,Mrs. Robert E. Choate,Terrier,False,1
+69,1954,Kerry Blue Terrier,Ch. Miss Showoff of Cognewaugh,Mrs. E. Eileen McEachren,Terrier,False,1
+70,1953,Skye Terrier,Ch. Merrymount You’ll Do of Iradell,lradell Kennels,Terrier,False,1
+71,1952,Welsh Terrier,Ch. Strathglass Venture’s Lucifer,Hugh J. Chisholm,Terrier,False,1
+72,1951,Wire Fox Terrier,Foxbank Entertainer of Harham,Mrs. Harold M. Florsheim,Terrier,False,1
+73,1950,Scottish Terrier,Ch. Walsing Winning Trick of Edgerstoune,Mrs. John G. Winant,Terrier,True,2
+74,1949,Welsh Terrier,Ch. Twin Ponds Belle,Mrs. Edward P. Alker,Terrier,False,1
+75,1948,Bedlington Terrier,Ch. Rock Ridge Night Rocket,Mr. & Mrs. William A. Rockefeller,Terrier,True,2
+76,1947,Miniature Schnauzer,Dorem Display,Mr. & Mrs. Phil Meldon,Terrier,False,1
+77,1946,Wire Fox Terrier,Ch. Hetherington Model Rhythm,"Mr. & Mrs. T. H. Carruthers, III",Terrier,True,2
+78,1945,Scottish Terrier,Shieling’s Signature,Mr. & Mrs. T. H. Snethen,Terrier,True,2
+79,1944,Welsh Terrier,Ch. Flornell Rare Bit of Twin Ponds,Mrs. Edward P. Alker,Terrier,True,2
+80,1943,Wire Fox Terrier,Ch. Glynhir Gladly,W. L. Lewis,Terrier,False,1
+81,1942,West Highland White Terrier,Ch. Wolvey Pattern of Edgerstoune,Mrs. John G. Winant,Terrier,True,2
+82,1941,Kerry Blue Terrier,Buskin of Kenmore,James M. Austin,Terrier,False,1
+83,1940,Smooth Fox Terrier,Ch. Nornay Saddler,Wissaboo Kennels,Terrier,False,1
+84,1939,Smooth Fox Terrier,Ch. Nornay Saddler,Wissaboo Kennels,Terrier,False,1
+85,1938,Wire Fox Terrier,Ch. Flornell Spicypiece of Halleston,Halleston Kennels,Terrier,False,1
+86,1937,Wire Fox Terrier,Flornell Spicypiece of Halleston,Halleston Kennels,Terrier,True,2
+87,1936,Sealyham Terrier,Ch. St Margaret Magnificent of Clairedale,Clairedale Kennels,Terrier,True,2
+88,1935,Sealyham Terrier,Ch. Ginside Babs of Hollybourne,Hollybourne Kennels,Terrier,False,1
+89,1934,Wire Fox Terrier,Flornell Spicy Bit of Halleston,Halleston Kennels,Terrier,True,2
+90,1933,Airedale Terrier,Warland Protector of Shelterock,S. M. Stewart,Terrier,True,2
+91,1932,Scottish Terrier,Heather Reveller of Sporran,S. S. Van Dine,Terrier,False,1
+92,1931,Wire Fox Terrier,Ch. Pendley Calling of Blarney,John G. Bates,Terrier,True,2
+93,1930,Wire Fox Terrier,Pendley Calling of Blarney,John G. Bates,Terrier,True,2
+94,1929,Wire Fox Terrier,Eden Aristocrat of Wildoaks,Mr. & Mrs. R. C. Bondy,Terrier,False,1
+95,1928,Wire Fox Terrier,Ch. Talavera Margaret,Reginald Lewis,Terrier,True,2
+96,1927,Sealyham Terrier,Ch. Pinegrade Perfection,Frederic C. Brown,Terrier,True,2
+97,1926,Wire Fox Terrier,Ch. Signal Circuit of Halleston,Mr. & Mrs. Stanley J. Halle,Terrier,True,2
+98,1925,Airedale Terrier,War Bride of Davishill,Davishill Kennels,Terrier,False,1
+99,1924,Sealyham Terrier,Ch. Barberryhill Bootlegger,Bayard Warren,Terrier,True,2
+0,2023,Pekingese,GCH CH Pequest Rum Dum,David Fitzpatrick,Toy,False,1
+1,2022,Maltese,GCHB Ta-Jon's Walk Of Fame,Dragica Hunter & Tammy Simon,Toy,False,1
+2,2021,Pekingese,GCHG Pequest Wasabi,Sandra Middlebrooks & Peggy Steinman & Iris Love & D Fitzpatrick,Toy,True,2
+3,2020,Havanese,GCh. Oeste's In The Name Of Love,Mary E King & Rafe H Schindler & Julie Vogel & Taffe McFadden,Toy,False,1
+4,2019,Havanese,GCh. Oeste's In The Name Of Love,Mary E King & Rafe H Schindler & Julie Vogel & Taffe McFadden,Toy,False,1
+5,2018,Pug,GCh. Hill Country’s Puttin’ On The Ritz,Carolyn Koch,Toy,False,1
+6,2017,Pekingese,GCh. Pequest Pickwick,Nancy H. Shapland & David Fitzpatrick,Toy,False,1
+7,2016,Shih Tzu,GCh. Wenrick’s Don’t Stop Believing,Sharon Bilicich & Jody Garcini,Toy,False,1
+8,2015,Shih Tzu,GCh. Hallmark Jolei Rocket Power,Patricia Hearst Shaw & Luke & Diane Ehricht,Toy,False,1
+9,2014,Miniature Pinscher,GCh. Marlex Classic Red Glare,Leah Monte & Armando Angelbello,Toy,False,1
+10,2013,Affenpinscher,GCh. Banana Joe V Tani Kazari,Zoila Truesdale & Mieke Cooymans,Toy,True,2
+11,2012,Pekingese,GCh. Palacegarden Malachy,Iris Love & S. Middlebrooks & D. Fitzpatrick,Toy,True,2
+12,2011,Pekingese,GCh. Palacegarden Malachy,Iris Love & S. Middlebrooks & D. Fitzpatrick,Toy,False,1
+13,2010,Poodle (Toy),Ch. Smash Jp Moon Walk,Ron Scott & Debbie Burke,Toy,False,1
+14,2009,Brussels Griffon,Ch. Cilleine Masquerade,M. & E. Gregory & A. & H. Jahlelka,Toy,False,1
+15,2008,Poodle (Toy),Ch. Smash Jp Win A Victory,Ron Scott,Toy,False,1
+16,2007,Poodle (Toy),Ch. Smash Jp Win A Victory,Ron Scott,Toy,False,1
+17,2006,Pug,Ch. Kendoric’s Riversong Mulroney,Carolyn Koch,Toy,False,1
+18,2005,Pekingese,Ch. Yakee If Only,Kit Woodruff,Toy,False,1
+19,2004,Pekingese,Ch. Yakee Leaving Me Breathless At Franshaw,John Shaw & Maria Francis,Toy,False,1
+20,2003,Pekingese,Ch. Yakee Leaving Me Breathless At Franshaw,John Shaw & Maria Francis,Toy,False,1
+21,2002,Affenpinscher,Ch. Yarrow’s Super Nova,Dr. & Mrs. William Truesdale,Toy,False,1
+22,2001,Shih Tzu,Ch. Charing Cross Ragtime Cowboy,Gilbert S. Kahn,Toy,False,1
+23,2000,Shih Tzu,Ch. Charing Cross Ragtime Cowboy,Gilbert S. Kahn,Toy,False,1
+24,1999,Papillon,Ch. Loteki Supernatural Being,John Oulton,Toy,True,2
+25,1998,Poodle (Toy),Ch. Dignity Of Jewelry House Yoko,Kaz Hosaka & Yoko Kamiya,Toy,False,1
+26,1997,Japanese Chin,Ch. Briarhill Rock and Roll,Diane L. Meyer & Geraldine B. Craddock,Toy,False,1
+27,1996,Papillon,Ch. Loteki Supernatural Being,John Oulton & Lou Ann King,Toy,False,1
+28,1995,Poodle (Toy),Ch. MVP of Ahs,"H. Euda, E. Yoshida, G. Wittmeier & N. Patton",Toy,False,1
+29,1994,Pekingese,Ch. Briarcourt’s Damien Gable,Nancy H. Shapland,Toy,False,1
+30,1993,Pekingese,Ch. Briarcourt’s Damien Gable,Nancy H. Shapland,Toy,False,1
+31,1992,Maltese,Ch. Sand Island Small Kraft Lite,Carol Frances Andersen,Toy,False,1
+32,1991,Poodle (Toy),Ch. Trebor of Ahs Capital Gains,Gary Wittmeier,Toy,False,1
+33,1990,Pekingese,Ch. Wendessa Crown Prince,Edward B. Jenner,Toy,True,2
+34,1989,Pug,Ch. Rowell’s Solo Moon Rising,"Linda & John Rowell, Jr.",Toy,False,1
+35,1988,Pomeranian,Ch. Great Elms Prince Charming II,Skip Piazza & Oga Baker,Toy,True,2
+36,1987,Pekingese,Ch. Briarcourt’s Coral Gable,William Mackay,Toy,False,1
+37,1986,Brussels Griffon,Ch. Berryhill Gandalf,"Mrs. A.R. Howard, Jr. & Cindy Reed",Toy,False,1
+38,1985,Poodle (Toy),Ch. Fairview’s No Nonsence,Joan R. Hartsock,Toy,False,1
+39,1984,Chihuahua (Smooth),Ch. Quachitah For Your Eyes Only,Linda George,Toy,False,1
+40,1983,Shih Tzu,Ch. Lou Wan Rebel Yell,Lou & Wanda Goc,Toy,False,1
+41,1982,Pekingese,Ch. St Aubrey Dragonora of Elsdon,Ann Snelling,Toy,True,2
+42,1981,Pug,Ch. Dhandys Favorite Woodchuck,Robert A. Hauslohnerq,Toy,True,2
+43,1980,Pug,Ch. Ivanwold Senator Sam,"Mrs. Robert V. Clark, Jr.",Toy,False,1
+44,1979,Pomeranian,Ch. Lennis’s Tar Lacy Foxfire,Edward B. Jenner,Toy,False,1
+45,1978,Yorkshire Terrier,Ch. Cede Higgens,B. A. & C. W. Switzer,Toy,True,2
+46,1977,Pug,Ch. Scullin’s Saucy Samson,J. H. Henderson & B. E. Hilton,Toy,False,1
+47,1976,Pekingese,Ch. Yang Kee Bernard,"Mrs. Walter M. Jeffords, Jr. & Michael Wolf",Toy,False,1
+48,1975,Miniature Pinscher,Ch. Jay Mac’s Impossible Dream,Dorothy De Maria,Toy,False,1
+49,1974,Poodle (Toy),Ch. Peeples Sahara,Robert A. Koeppel,Toy,False,1
+50,1973,Maltese,Ch. Joanne-Chen’s Maya Dancer,Mamie R. Gregory,Toy,False,1
+51,1972,Maltese,Ch. Joanne-Chen’s Maya Dancer,Mamie R. Gregory,Toy,False,1
+52,1971,Pomeranian,Ch. Duke’s Lil Red Baron O’Kala,Mrs. Joyce Graves,Toy,False,1
+53,1970,Pekingese,Ch. Beaupre’s Toms Joy Len Chim,Constance C Sherman,Toy,False,1
+54,1969,Manchester Terrier (Toy),Ch. Renreh Lorelei of Charmara,Marie E. & Charles A. T. O’Neill,Toy,False,1
+55,1968,Pekingese,Ch. Dan Lee Dragonseed,John D. Brown,Toy,False,1
+56,1967,Pomeranian,Ch. Leader’s Little Buck-a-Roo,Ina F. Kniffin,Toy,False,1
+57,1966,Maltese,Ch. Aennchen’s Poona Dancer,F. E. Oberstar & L. G. Ward,Toy,False,1
+58,1965,Italian Greyhound,Ch. Flaminia of Alpine,Louis F. Russo,Toy,False,1
+59,1964,Maltese,Ch. Co-Ca-He’s Aennchen Toy Dancer,Anne Maria Stimmler,Toy,False,1
+60,1963,Miniature Pinscher,Ch. Rebel Rod’s Casanova Von Kurt,"E. W. Tipton, Jr.",Toy,False,1
+61,1962,Pomeranian,Ch. Pixietown Seranade of Hadleigh,Ruth Belleck & Lady Florence Conyers,Toy,False,1
+62,1961,Poodle (Toy),Ch. Cappoquin Little Sister,Florence Michelson,Toy,True,2
+63,1960,Pekingese,Ch. Chik T’Sun of Caversham,Mr. & Mrs. C. C. Venable,Toy,True,2
+64,1959,Pekingese,Ch. Chik T’Sun of Caversham,Mr. & Mrs. C. C. Venable,Toy,False,1
+65,1958,Pug,Ch. Pugholm’s Peter Pumpkin Eater,Frederic & Elizabeth Soderberg,Toy,False,1
+66,1957,Pekingese,Ch. Chik T’Sun of Caversham,Mr. & Mrs. C. C. Venable,Toy,False,1
+67,1956,Poodle (Toy),Ch. Wilber White Swan,Bertha Smith,Toy,True,2
+68,1955,Yorkshire Terrier,Ch. Star Twilight of Clu-Mor,"Mrs. L. S. Gordon, Jr. & Janet Bennett",Toy,False,1
+69,1954,Yorkshire Terrier,Ch. Star Twilight of Clu-Mor,"Mrs. L. S. Gordon, Jr. & Janet Bennett",Toy,False,1
+70,1953,Pug,Ch. Pugville’s Mighty Jim,Pugville Kennels,Toy,False,1
+71,1952,Brussels Griffon,Ch. All Celia’s Beau Brumml,Iris de la Torre Bueno,Toy,False,1
+72,1951,Poodle (Toy),Ch. Cartlane Once,Mrs. Charles R. Fleishman,Toy,False,1
+73,1950,Poodle (Toy),Ch. Cartlane Once,Mrs. Charles R. Fleishman,Toy,False,1
+74,1949,Miniature Pinscher,Ch. Rajah v Siegenburg,Mrs. William O. Bagshaw,Toy,False,1
+75,1948,Pomeranian,Pomwin Doreen,Mrs. Blossom M. Sandy,Toy,False,1
+76,1947,Pomeranian,Ch. Little Tim Stepper,Mrs. V. Matta,Toy,False,1
+77,1946,Pekingese,Ch. Jai Son Fu of Orchard Hill,Mrs. Richard S. Quigley,Toy,False,1
+78,1945,Pug,Ch. Udalia’s Mei-Ling,Dorothy F. Wagstaff,Toy,False,1
+79,1944,Yorkshire Terrier,Ch. Millbarry’s Sho-Show,Vera Zorina,Toy,False,1
+80,1943,Pekingese,Beh Tang,Dorothy P Lathrop,Toy,False,1
+81,1942,Pomeranian,Ch. Moneybox Currency,Mrs. V. Matta,Toy,False,1
+82,1941,Miniature Pinscher,Ch. King Eric v Konigsbach,Wm. O. Bagshaw,Toy,False,1
+83,1940,Brussels Griffon,Ch. Burlingame Hellzapoppin,Rosalind Layte,Toy,False,1
+84,1939,Yorkshire Terrier,Ch. Miss Wynsum,Arthur Mills,Toy,False,1
+85,1938,Pekingese,Kai Lo of Dah Lyn,John B. Royce,Toy,False,1
+86,1937,Pekingese,Tang Hao of Caversham Catawba,Mrs. James W. Austin,Toy,False,1
+87,1936,Pomeranian,Ch. Salisburgy Sensation,Mrs. Andres W. Rose,Toy,False,1
+88,1935,Pomeranian,Wonder Son,Miss E. G. Hydon,Toy,False,1
+89,1934,Pekingese,Wee Foo of Kingswere,Mrs. Ralph Boalt,Toy,False,1
+90,1933,Pekingese,Pierrot of Hartleburg,Mrs. Richard S. Quigley,Toy,False,1
+91,1932,Japanese Spaniel,Ch. KeurvannaTiti,Keurvanna Kennels,Toy,False,1
+92,1931,Pomeranian,Sealand Career,Radiant Kennels,Toy,False,1
+93,1930,Pekingese,Fuchow Paladin of Alderbourne,Ray M. Cushman,Toy,False,1
+94,1929,Pekingese,Ch. King Pippin of Greystones,Mrs. C. Hager,Toy,False,1
+95,1928,Pomeranian,Ch. Bogota Firebug,Miss E. G. Hydon,Toy,False,1
+96,1927,Pomeranian,Ch. Little Rajah,Mrs. V. Matta,Toy,False,1
+97,1926,Pomeranian,Glen Rose Flashaway,Joseph Greenwood,Toy,False,1
+98,1925,Brussels Griffon,Sunny Mede Petite Poilu,Mrs. William H. Goff,Toy,False,1
+99,1924,Pekingese,Ch. Glen Iris Dai Dream,Mrs. Sidney Franc,Toy,False,1
+0,2023,French Bulldog,GCHP CH Fox Canyon's I Won the War at Goldshield CGCA CGCU TKN,Sandy Fox & Alex Vorbeck & Alex Geremia & Felicia Cashin & M Fox & P Payson,Non-Sporting,False,1
+1,2022,French Bulldog,GCHP CH Fox Canyon's I Won the War at Goldshield CGCA CGCU TKN,Sandy Fox & Morgan Fox & Perry Payson & Alexandra Vorbeck,Non-Sporting,False,1
+2,2021,French Bulldog,GCHP CH Chaselands Mathew Moss,Nancy Shaw & Chad Howard,Non-Sporting,False,1
+3,2020,Standard Poodle,GCHP CH Stone Run Afternoon Tea,Connie S Unger & William Lee,Non-Sporting,True,2
+4,2019,Schipperke,GCh. Rivendel's Barefoot Bandit,S Middlebrooks & W & T Truesdale & A Halterman,Non-Sporting,False,1
+5,2018,Bichon Frise,GCh. Belle Creek’s All I Care About Is Love,Patrina & Bruce Odette & Lindsay Van Keuren & Lorrie Carlton & Larry Letsche DVM,Non-Sporting,True,2
+6,2017,Poodle (Miniature),GCh. Danfour Avalon As If,Daniel Chavez & James Moses & Janet Moses,Non-Sporting,False,1
+7,2016,Bulldog,GCh. Imperious Hamitup Southern Bell,Ellen Charles & Imperious & Hamitup & Hetherbull,Non-Sporting,False,1
+8,2015,Poodle (Standard),GCh. Dawin Hearts On Fire,Linda C. Campbell,Non-Sporting,False,1
+9,2014,Poodle (Standard),GCh. Brighton Lakeridge Encore,Toni Sosnoff & Martin Sosnoff,Non-Sporting,False,1
+10,2013,Bichon Frise,GCh. Vogelflight’s Honor To Pillowtalk,E. M. Charles & M. & P. Abbott & Lori Kornfeld & Mary & Kathie Vogel,Non-Sporting,False,1
+11,2012,Dalmatian,GCh. Spotlights Ruffian,Jim Lyons & Barbara Lyons,Non-Sporting,False,1
+12,2011,Chinese Shar-Pei,GCh. Vaje’s Miss Jayne Hathaway,Jeff Mauk & Vicki Mauk,Non-Sporting,False,1
+13,2010,French Bulldog,Ch. Robobull Fabelhaft Im On Fire,Marion Hulick & S. St John & James Dalton,Non-Sporting,False,1
+14,2009,Poodle (Standard),Ch. Randenn Tristar Affirmation,Toni Sosnoff & Martin Sosnoff,Non-Sporting,False,1
+15,2008,Poodle (Standard),Ch. Brighton Minimoto,Cindy Coggin & Don Rochow & Zuleika Borges Torrealba,Non-Sporting,False,1
+16,2007,Poodle (Standard),Ch. Brighton Minimoto,Cindy Coggin & Don Rochow & Zuleika Borges Torrealba,Non-Sporting,False,1
+17,2006,Dalmatian,Ch. Merry Go Round Mach Ten,Dick Stark & Linda Stark,Non-Sporting,False,1
+18,2005,Tibetan Terrier,Ch. Kimik’s Bare Necessities,Mikki DeMers & Sheryl Rutledge Schultis,Non-Sporting,False,1
+19,2004,Poodle (Standard),Ch. Ale Kai Mikimoto On Fifth,Karen LeFrak & Wendell J. Sammet,Non-Sporting,False,1
+20,2003,Poodle (Standard),Ch. Ale Kai Mikimoto On Fifth,Karen LeFrak & Wendell J. Sammet,Non-Sporting,False,1
+21,2002,Poodle (Miniature),Ch. Surrey Spice Girl,Ron L .Scott & Barbara Scott,Non-Sporting,True,2
+22,2001,Bichon Frise,Ch. Special Times Just Right,"C. Ruggles, E. McDonald & F. Werneck",Non-Sporting,True,2
+23,2000,Poodle (Standard),Ch. Lake Cove That’s My Boy,Mrs. Alan R. Robson,Non-Sporting,False,1
+24,1999,Poodle (Standard),Ch. Lake Cove That’s My Boy,Mrs. Alan R. Robson,Non-Sporting,False,1
+25,1998,Poodle (Standard),Ch. Lake Cove That’s My Boy,Mrs. Alan R. Robson,Non-Sporting,False,1
+26,1997,Dalmatian,Ch. Spotlight’s Spectacular,Mrs. Alan R. Robson,Non-Sporting,False,1
+27,1996,Dalmatian,Ch. Spotlight’s Spectacular,Mrs. Alan R. Robson,Non-Sporting,False,1
+28,1995,Poodle (Miniature),Ch. Surrey Sweet Capsicum,Robert A. Koeppel,Non-Sporting,False,1
+29,1994,Poodle (Standard),Ch. La Marka Nini Oscura,Edward Jenner,Non-Sporting,False,1
+30,1993,Bichon Frise,Ch. Chaminade Larkshire La Fitte,Lois Morrow,Non-Sporting,False,1
+31,1992,Chow Chow,Ch. Lov-Chows Risen Star,"Mr. & Mrs. J. Vaudo, Mr. & Mrs. T. Lovett, M. Larizza",Non-Sporting,False,1
+32,1991,Poodle (Standard),Ch. Whisperwind on a Carousel,Dr. & Mrs. Frederick Hartsock,Non-Sporting,True,2
+33,1990,Bichon Frise,Ch. Chaminade Le Blanc Chamour,L. Morrow & C. & R. Vida,Non-Sporting,False,1
+34,1989,Poodle (Standard),Ch. Ted-El Halo Jet Setter,Robert Koeppel,Non-Sporting,False,1
+35,1988,Poodle (Standard),Ch. Alekai Airy,Tatiana M. Nagro,Non-Sporting,False,1
+36,1987,Bichon Frise,Ch. Devon Puff & Stuff,Nancy H. Shapland,Non-Sporting,False,1
+37,1986,Bichon Frise,Ch. Devon Puff & Stuff,Nancy H. Shapland,Non-Sporting,False,1
+38,1985,Dalmatian,Ch. Fireman’s Freckled Friend,Robert & Mary Peth,Non-Sporting,False,1
+39,1984,Chow Chow,Ch. Wah-Hu Redcloud Sugar Daddy,Mary A. Vaudo & Zola Coogan,Non-Sporting,False,1
+40,1983,Bulldog,Ch. Lodel’s Hi Jacker of Kralan,Nan S. Burke,Non-Sporting,False,1
+41,1982,Poodle (Miniature),Ch. Alcala Salutation of Karelea,Evelina Toledo,Non-Sporting,False,1
+42,1981,Poodle (Miniature),Ch. JLC Critique,Robert A. Koeppel,Non-Sporting,False,1
+43,1980,Poodle (Standard),Ch. Rimskittle Ruffian,M. D. Durney & E. B. Jenner,Non-Sporting,False,1
+44,1979,Poodle (Miniature),Ch. JLC Critique,Rita Cloutier,Non-Sporting,False,1
+45,1978,Bulldog,Ch. Marinebull’s All The Way,Karl & Joyce Dingman,Non-Sporting,False,1
+46,1977,Lhasa Apso,Ch. Yojimbo Orion,Elaine Spaeth,Non-Sporting,False,1
+47,1976,Poodle (Miniature),Ch. Montmartre Supe Lad,Mrs. R. F. Tranchin,Non-Sporting,False,1
+48,1975,Chow Chow,Ch. Mi Tus Han Su Shang,J. C. Frederick Peddie & Herbert E. Williams,Non-Sporting,False,1
+49,1974,Bulldog,Ch. Dey-Del,Robert B. Kullman,Non-Sporting,False,1
+50,1973,Poodle (Standard),Ch. Acadia Command Performance,Edward B Jenner & Jo Anne Sering,Non-Sporting,True,2
+51,1972,Poodle (Miniature),Ch. Tally Ho Tiffany,Mr. & Mrs. Frank Dale and Edward B. Jenner,Non-Sporting,False,1
+52,1971,Poodle (Miniature),Ch. Tally Ho Tiffany,Frank and Susan Dale,Non-Sporting,False,1
+53,1970,Boston Terrier,Ch. Star Q’s Brass Buttons,Dr. K. Eileen Hite,Non-Sporting,False,1
+54,1969,Chow Chow,Ch. Gotschall’s Van Van,Donald Drennan and Mrs Valetta Gotschall,Non-Sporting,False,1
+55,1968,Keeshond,Ch. Flakkee Sweepstakes,Flakkee Kennels,Non-Sporting,False,1
+56,1967,Poodle (Standard),Ch. Alekai Marlaine,Alekai Kennels,Non-Sporting,False,1
+57,1966,Poodle (Miniature),Ch. Round Table Cognac,Round Table Kennels,Non-Sporting,False,1
+58,1965,Poodle (Miniature),Ch. Pixiecroft Sunbeam,Mrs. Gardner Cassatt,Non-Sporting,False,1
+59,1964,Poodle (Miniature),Ch. Tedwin’s Top Billing,Estate of Col. E. E. Ferguson,Non-Sporting,False,1
+60,1963,Dalmatian,Ch. Coachman’s Callisto,Pennydale Kennels,Non-Sporting,False,1
+61,1962,Poodle (Miniature),Ch. Crikora Commotion,Mrs. J. Donald Duncan,Non-Sporting,False,1
+62,1961,Poodle (Miniature),Ch. Estid Ballet Dancer,Col. E. E. Ferguson & Estid Kennels,Non-Sporting,False,1
+63,1960,Bulldog,Ch. Vardona Frosty Snowman,Vardona Kennels,Non-Sporting,False,1
+64,1959,Poodle (Miniature),Ch. Fontclair Festoon,Dunwalke Kennels,Non-Sporting,True,2
+65,1958,Poodle (Standard),Ch. Puttencove Promise,Puttencove Kennels,Non-Sporting,True,2
+66,1957,Dalmatian,Ch. Roadcoach Roadster,"Mrs. S. K. Allman, Jr.",Non-Sporting,False,1
+67,1956,Poodle (Standard),Ch. Alfonco yon der Goldenen Kette,Pennyworth Kennels & Clairedale Kennels,Non-Sporting,False,1
+68,1955,Bulldog,Ch. Kippax Fearnaught,Dr. J. A. Saylor,Non-Sporting,True,2
+69,1954,Bulldog,Kippax Fearnaught,Dr. J. A. Saylor,Non-Sporting,False,1
+70,1953,Poodle (Standard),Ch. Blakeen Bali Hai,Puttencove Kennels,Non-Sporting,False,1
+71,1952,Poodle (Standard),Ch. Ensarr Glace,Mrs. W. French Githens,Non-Sporting,False,1
+72,1951,Poodle (Miniature),Ch. Blakeen Cristoff,Blakeen Kennels,Non-Sporting,False,1
+73,1950,Poodle (Standard),Ch. Puttencove Halla’s Hugo,Puttencove Kennels,Non-Sporting,False,1
+74,1949,Dalmatian,Ch. Swabline of Oz-Dal,Mrs. Blanche S. Osborne,Non-Sporting,False,1
+75,1948,Boston Terrier,Ch. Mighty Sweet Regardless,Claude J. Fitzgerald,Non-Sporting,False,1
+76,1947,Boston Terrier,Ch. Mighty Sweet Regardless,Claude J. Fitzgerald,Non-Sporting,False,1
+77,1946,Boston Terrier,Ch. Emperor’s Ace,Fred H. Lucas,Non-Sporting,False,1
+78,1945,Poodle (Standard),Ch. Blakeen Luzon,Blakeen Kennels,Non-Sporting,False,1
+79,1944,Poodle (Miniature),Ch. Black Magic,George H. Frelinghuysen,Non-Sporting,False,1
+80,1943,Poodle (Miniature),Ch. Pitter Patter of Piperscroft,Mrs. P. H. B. Frelinghuysen,Non-Sporting,True,2
+81,1942,Poodle (Miniature),Ch. Ramoveur of Catawba,Mrs. P. H. B. Frelinghuysen,Non-Sporting,False,1
+82,1941,Poodle (Standard),Ch. Blakeen Eiger,Blakeen Kennels,Non-Sporting,False,1
+83,1940,Chow Chow,Ch. Lie Wol Lah Son,Mrs. A. V. Hallowell,Non-Sporting,False,1
+84,1939,Poodle (Standard),Ch. Blakeen Jung Frau,Blakeen Kennels,Non-Sporting,False,1
+85,1938,Poodle (Standard),Ch. Pillicoc Rumpelstilskin,Pillicoc Kennels,Non-Sporting,False,1
+86,1937,Chow Chow,Ch. Far Land Thundergust,Mrs. Wm. MacFarland,Non-Sporting,False,1
+87,1936,Poodle (Standard),Ch. Nunsoe Duc De La Terrace of Blakeen,Blakeen Kennels,Non-Sporting,False,1
+88,1935,Poodle (Standard),Ch. Nunsoe Duc De La Terrace of Blakeen,Blakeen Kennels,Non-Sporting,True,2
+89,1934,Poodle (Standard),Nunsoe Duc De La Terrace of Blakeen,Blakeen Kennels,Non-Sporting,False,1
+90,1933,Poodle,Ch. Whippendell Poli of Carillon,Carillon Kennels,Non-Sporting,False,1
+91,1932,Boston Terrier,Ch. Million Dollar Kid Boots,Mrs. Jesse Thornton,Non-Sporting,False,1
+92,1931,Boston Terrier,Imogene V,William Cornbill,Non-Sporting,False,1
+93,1930,Bulldog,Ch. Maple Spring Boddie Boy,Carey W. Lindsay,Non-Sporting,False,1
+94,1929,Boston Terrier,Ch. Reigh Count,Mrs. L. B. Daley,Non-Sporting,False,1
+95,1928,Bulldog,Ch. Sessue,William E. Chetwin,Non-Sporting,False,1
+96,1927,Bulldog,Morningside Prince,Hart Mitchell,Non-Sporting,False,1
+97,1926,Chow Chow,Ch. Victorious of Tien,Mrs. H. Earl Hoover,Non-Sporting,False,1
+98,1925,Boston Terrier,Million Dollar King,Ema G. Fox,Non-Sporting,False,1
+99,1924,Chow Chow,Ch. Greenacre Li Ping Tow,Greenacre Kennel,Non-Sporting,False,1
+0,2023,Petit Basset Griffon Vendeen,CH Soletrader Buddy Holly,Janice Hayes & Lizzie Cadmore & Cathy Oneill & Donna Moore,Hound,True,2
+1,2022,Bloodhound,GChB Flessner's Toot My Own horn,Chris & Bryan Flessner & Heather Helmer & Tina Kocar,Hound,True,2
+2,2021,Whippet,GCh. CH Pinnacle Kentucky Bourbon,Justin Smithey & Dr Ken Latimer & Judy Descutner & Nancy Shaw & Cheslie Smithey,Hound,False,1
+3,2020,Whippet,GCh. CH Pinnacle Kentucky Bourbon,Justin Smithey & Dr Ken Latimer & Judy Descutner & Nancy Shaw & Cheslie Smithey,Hound,False,1
+4,2019,Dachshund (Longhaired),GCh. DC Walmar-Solo's OMG SL JE,Theresa Nesbitt & Kim Vidrine & Jeane Haverick & Audrey White & Patricia Grant,Hound,False,1
+5,2018,Borzoi,GCh. Belisarius Jp My Sassy Girl,Michele Molnar & Jamie Danburg & Minoru Kato,Hound,False,1
+6,2017,Norwegian Elkhound,GCh. Vin-Melca’s Daggarwood Delight,Patrica V. Trotter,Hound,False,1
+7,2016,Borzoi,Ch. Belisarius Jp My Sassy Girl,Mai Ozeki,Hound,False,1
+8,2015,"Beagle, 15 In.",Ch. Tashtins Lookin For Trouble,Eddie Dziuk & Lori Crandlemire & Kaitlyn Crandlemire,Hound,True,2
+9,2014,Bloodhound,GCH Flessner’s International S’Cess,Shirley VanCamp & Heather Buehner & Zack Helmer,Hound,False,1
+10,2013,American Foxhound,Ch. Kiarry’s Pandora’s Box,Ellen M. Charles & Lisa Miller,Hound,False,1
+11,2012,Dachshund (Wirehaired),GCH. Raydachs Playing With Fire V Gleishorbach SW,Shirley Ray & Maria Sakoda & James Sakoda,Hound,False,1
+12,2011,Scottish Deerhound,GCH. Foxcliffe Hickory Wind,Sally Sweatt & Cecilia L Dove & Dr. R. Scott Dove,Hound,True,2
+13,2010,Whippet,Ch. Starline’s Chanel,Lori Lawrence & Carey Lawrence,Hound,False,1
+14,2009,Scottish Deerhound,Ch. Gayleward’s Tiger Woods,Gayle Bontecou,Hound,False,1
+15,2008,"Beagle, 15 In",Ch. K-Run’s Park Me In First,Caroline Dowell & Eddie Dziuk & Jon Woodring & Kathy Weichert,Hound,True,2
+16,2007,Petit Basset Griffon Vendeen,Ch. Celestial Cj’s Jolly Fairchild,Jeanne Hurty & Charles Hurty & Pamela Helmer & Joseph H,Hound,False,1
+17,2006,Scottish Deerhound,Ch. Thistleglen Margot,Jeanne T. Frye & Pennyworth Kennel,Hound,False,1
+18,2005,Bloodhound,Ch. Heathers Knock On Wood,Lyn Sherman,Hound,False,1
+19,2004,Ibizan Hound,Ch Luxor’s Playmate Of The Year,"W. Anderson, G. Brand, L. Lucas & C. Woods",Hound,False,1
+20,2003,Ibizan Hound,Ch. Luxor’s Playmate Of The Year,"W. Anderson, G. Brand, L. Lucas & H. Goldberg",Hound,False,1
+21,2002,Rhodesian Ridgeback,Ch. Wetu of Kalahari,"S. Fikes, D. Stewart, M. Well & C. Well",Hound,False,1
+22,2001,Bloodhound,Ch. Ridge Runner Unforgettable,Susan LaCroix Hamil & Lori Burch,Hound,False,1
+23,2000,Basset Hound,Ch. Moonbeam’s Astronomer,Maria Elisa Martinez,Hound,False,1
+24,1999,Saluki,Ch. Sundown Alabaster Treasure JC,Dr. James D. Black,Hound,False,1
+25,1998,Dachshund (Longhaired),Ch. Pramada’s Curmudgeon L,Drs. Mark & Patrice Parker,Hound,False,1
+26,1997,Dachshund (Wirehaired),Ch. Starbarrack Malachite SW,Mrs. Alan R. Robson,Hound,False,1
+27,1996,Afghan Hound,Ch. Tryst of Grandeur,R. & G. & S. & T. Rechler,Hound,False,1
+28,1995,Norwegian Elkhound,Ch. Vin-Melca’s Marketta,J. & N. Eisley-Bennett & P. Craige,Hound,False,1
+29,1994,Norwegian Elkhound,Ch. Vin-Melca’s Marketta,J. & N. Bennett & P. Craige,Hound,False,1
+30,1993,Borzoi,Ch. Fox Run’s Ivy Rose,Ronald Mater & Joanne Hack,Hound,False,1
+31,1992,Basset Hound,Ch. Lil’ Creek Briarcrest Top Gun,Dan & Julie Jones,Hound,False,1
+32,1991,Scottish Deerhound,Ch. Fernhill’s Phantom CD,Miranda Levin & Barbara Heidenreich,Hound,False,1
+33,1990,Norwegian Elkhound,Ch. Vin-Melca’s Calista,Carol Anderson,Hound,False,1
+34,1989,Norwegian Elkhound,Ch. Vin-Melca’s Calista,Carol Anderson,Hound,False,1
+35,1988,Bloodhound,Ch. Viking’s Thor,Charles Sexton,Hound,False,1
+36,1987,Bloodhound,Ch. Viking’s Thor,Charles Sexton,Hound,False,1
+37,1986,Norwegian Elkhound,Ch. Vin-Melca’s Call To Arms,Ashlyn Cannon,Hound,False,1
+38,1985,Irish Wolfhound,Ch. Aodh Harp of Eagle,"Samuel Evans Ewing, III",Hound,False,1
+39,1984,English Foxhound,Ch. Mr Stewar’s Cheshire Winslow,Emily Latimer & Suzy A. Reingold,Hound,False,1
+40,1983,Afghan Hound,Ch. Kabiks The Challenger,Chris & Marquerite Terrell,Hound,True,2
+41,1982,Saluki,Ch. Bel S’mbran Aba Fantasia,George & Sally Bell,Hound,False,1
+42,1981,Whippet,Ch. Sporting Fields Clansman,Mr. & Mrs. James E. & Eleanor Butt,Hound,False,1
+43,1980,Greyhound,Ch. Aroi Talk of the Blues,Mr & Mrs N J Reese,Hound,False,1
+44,1979,Norweigan Elkhound,Ch. Vin-Melca’s Nimbus,Patricia V. Craige & Harold Shuler,Hound,False,1
+45,1978,Greyhound,Ch. Aroi Talk of the Blues,Mr. & Mrs. N. J. Reese,Hound,False,1
+46,1977,Norwegian Elkhound,Ch. Vin-Melca’s Nimbus,Patricia V. Craige & Harold Shuler,Hound,False,1
+47,1976,Saluki,Ch. Canem-Dei’s El Salta Aun,Mimi Carlyle,Hound,False,1
+48,1975,Irish Wolfhound,Ch. Breac O’Shawn McDown of Eagle,Mr. & Mrs. William Snuffin,Hound,False,1
+49,1974,Norwegian Elkhound,Ch.Vin Melca’s Homesteader,Patricia V. Craige & D. Schiller,Hound,False,1
+50,1973,Afghan Hound,Ch. Khayam’s Apollo,Dr. & Mrs. Doyle Rogers,Hound,False,1
+51,1972,Basenji,Ch. Reville Re Up,Estate of Elaine S. Hoffman,Hound,False,1
+52,1971,Norwegian Elkhound,Ch. Vin Melca’s Vagabond,Patricia V. Craige,Hound,False,1
+53,1970,Norwegian Elkhound,Ch. Vin Melca’s Vagabond,Patricia V. Craige,Hound,False,1
+54,1969,Dachshund (Smooth),Ch. Crosswynd’s Crackerjack,Mr. & Mrs. Charles C. Stalter,Hound,False,1
+55,1968,Dachshund (Smooth),Ch. Crosswynd’s Crackerjack,Mr. & Mrs. Charles C. Stalter,Hound,False,1
+56,1967,Afghan Hound,Ch. Akaba’s Blue Devil,Lois R. Boardman,Hound,False,1
+57,1966,Afghan Hound,Ch. Sahadi Shikari,Soroya Kennels,Hound,False,1
+58,1965,Whippet,Ch. Courtenay Fleetfoot of Pennyworth,Pennyworth Kennels,Hound,False,1
+59,1964,Whippet,Ch. Courtenay Fleetfoot of Pennyworth,Pennyworth Kennels,Hound,True,2
+60,1963,Greyhound,Ch. Rudel’s Firefly,Elsie S. Neustadt,Hound,False,1
+61,1962,Afghan Hound,Ch. Akaba’s Top Brass,Lois R. Boardman,Hound,False,1
+62,1961,Dachshund (Smooth),Ch. White Gables Ristocrat,Mrs. Albert E. Van Court,Hound,False,1
+63,1960,Basset Hound,Ch. The Ring’s Banshee,Chris G. Teeter,Hound,False,1
+64,1959,Norwegian Elkhound,Ch. Tortasen’s Bjonn II,Pitch Road Kennels,Hound,False,1
+65,1958,Whippet,Ch. Laguna Lucky Lad,Mardormere Kennels,Hound,False,1
+66,1957,Afghan Hound,Ch. Shirkham of Grandeur,Sunny Shay & Dorothy Chenade,Hound,True,2
+67,1956,Bloodhound,Ch. Fancy Bombardier,Tom & Pearl Sheahan,Hound,False,1
+68,1955,Afghan Hound,Ch. Taejon of Crown Crest,Kay Finch,Hound,False,1
+69,1954,Afghan Hound,Ch. Taejon of Crown Crest,Kay Finch,Hound,False,1
+70,1953,Bloodhound,Ch. Fancy Bombardier,Tom & Pearl Sheahan,Hound,False,1
+71,1952,Dachshund (Wirehaired),Ch. Thomarel’s Lola,Stanley F. Todd,Hound,False,1
+72,1951,Dachshund (Smooth),Ch. Aristo Yon Marienlust,Mrs. Lancaster Andrews,Hound,False,1
+73,1950,Afghan Hound,Ch. Turkuman Nissim’s Laurel,Sunny Shay & Sol Malkin,Hound,False,1
+74,1949,Greyhound,Ch. Magic of Mardormere,Mardormere Kennels,Hound,False,1
+75,1948,Greyhound,Ch. Magic of Mardormere,Mardormere Kennels,Hound,False,1
+76,1947,Greyhound,Ch. Magic of Mardormere,Mardormere Kennels,Hound,False,1
+77,1946,Afghan Hound,Ch. Ali Khyber,Leah P. McConaha,Hound,False,1
+78,1945,Saluki,Ch. Marjan II,El Retiro Kennels,Hound,False,1
+79,1944,American Foxhound,Newbold Ely’s Gloria,W. Newbold Ely,Hound,False,1
+80,1943,Borzoi,Vigow of Romanoff,Louis J. Murr,Hound,False,1
+81,1942,Borzoi,Tydd of Romanoff,Louis J. Murr,Hound,False,1
+82,1941,Afghan Hound,Ch. Rana of Chaman of Royal Irish,Marion Florsheim,Hound,False,1
+83,1940,Saluki,Ch Marjan II,Anna Marie Paterno,Hound,False,1
+84,1939,Beagle,Ch. Meadowlark Draftsman,Foxcatcher Beagles,Hound,False,1
+85,1938,Dachshund (Smooth),Ch. Fox vom Teckelhof,Llieno Kennels,Hound,False,1
+86,1937,Greyhound,Ch. White Rose of Boveway,Windholme Kennels,Hound,False,1
+87,1936,Greyhound,White Rose of Boveway,Windholme Kennels,Hound,False,1
+88,1935,Greyhound,Southball Moonstone,Halcyon Kennels,Hound,False,1
+89,1934,Greyhound,Lily of Devon,Windholme Kennels,Hound,False,1
+90,1933,Greyhound,Boveway Beau Brummel,Windholme Kennels,Hound,False,1
+91,1932,Greyhound,Ch. Gamecock Duke of Wales,George S. West,Hound,False,1
+92,1931,Greyhound,Gamecock Duke of Wales,George S. West,Hound,False,1
+93,1930,Beagle (15″),Ch. Meadow Lark Watchman,Louis Batjer,Hound,False,1
+94,1929,None,None,None,Hound,False,0
+95,1928,None,None,None,Hound,False,0
+96,1927,None,None,None,Hound,False,0
+97,1926,None,None,None,Hound,False,0
+98,1925,None,None,None,Hound,False,0
+99,1924,None,None,None,Hound,False,0
+0,2023,Australian Shepherd,GCHP CH Northbay Xsell That's A Wrap,Bette A Evans,Herding,False,1
+1,2022,German Shepherd Dog,GCHG CH Gem-N-I River of Urloved CGC,Richard A Waits,Herding,False,1
+2,2021,Old English Sheepdog,GCH CH Bugaboo's Courage of Conviction,Colton Johnson & Heather Johnson & Douglas Johnson & Michaelanne Johnson,Herding,False,1
+3,2020,Shetland Sheepdog,GCHP CH. Syringa- Akadia The Corsair,Tyler Crady & Deborah Sirdofsky & Guy Okada & Debi Tario,Herding,False,1
+4,2019,Bouvier Des Flandres,GCh. Quiche's Major League,Julianna Garrison & Elaine & Louise Paquette,Herding,False,1
+5,2018,Border Collie,GCh.  Majestic Elite Clever Endeavor,Ricki Johnson & J Frank Baylis & Ronni Delay,Herding,False,1
+6,2017,German Shepherd Dog,GCh. Lockenhaus’ Rumor Has It V Kenlyn,Deborah Stern & Pamela Buckles & Patti Dukeman & Pamela McElheney & Kent Boyles,Herding,True,2
+7,2016,German Shepherd Dog,GCh. Lockenhaus’ Rumor Has It V Kenlyn,Deborah Stern & Pamela Buckles & Patti Dukeman & Pamela McElheney & Kent Boyles,Herding,False,1
+8,2015,Old English Sheepdog,Ch. Bugaboo’s Picture Perfect,Ron Scott & Debbie Burke & Colton & Heather Johnson,Herding,False,1
+9,2014,Cardigan Welsh Corgi,GCh. Riverside Telltail Coco Posh,Dina Planche & Deb Shindle & Julie & Bill Divens,Herding,False,1
+10,2013,Old English Sheepdog,Bugaboo’s Picture Perfect,Colton & Heather Johnson,Herding,False,1
+11,2012,German Shepherd Dog,GCh. Babheim’s Captain Crunch,James & Sheree Moses & Deborah Stern & Janet Lange & Carlos Navarro & Maria Deschamp,Herding,False,1
+12,2011,Bearded Collie,GCh. Tolkien Raintree Mister Baggins,Ellen Charles & Stein & L. Woodcock & R. Lamm & Ross,Herding,False,1
+13,2010,Puli,Ch. Cordmaker Field Of Dreams,Susan Huebner & Jackie Beaudoin,Herding,False,1
+14,2009,Puli,Ch. Cordmaker Field Of Dreams,Susan Huebner & Jackie Beaudoin,Herding,False,1
+15,2008,Australian Shepherd,Ch. Vinelake Collinswood Yablon OA OAJ,Terri K. Collins,Herding,False,1
+16,2007,Bouviers des Flandres,Ch. Ace’s Indelible Mark HT,J. Lockhart & M. Bender & L. Calhoun & S. McDaniel & S. Cal,Herding,False,1
+17,2006,Old English Sheepdog,Ch. Bugaboos Big Resolution,Douglas W. & Michaelanne Johnson & B. Callahan & P. Henry,Herding,False,1
+18,2005,Border Collie,Ch. Borderfame Spellbound,Caroline Woods & J. Frank Baylis,Herding,False,1
+19,2004,Pembroke Welsh Corgi,Ch. Hum’nbird Keepin Up’Pearances,Samuel & Marion Lawrence,Herding,False,1
+20,2003,German Shepherd Dog,Ch. Kismet’s Sight For Sore Eyes,"B. & D. Wood, J. & N. Bennett, A. Howells & M. Kish",Herding,False,1
+21,2002,Pembroke Welsh Corgi,Ch. Foxlor Shafrhaus Sammy Sosa,"B. G. Dowd, S. Mottes & L. Sawyer",Herding,False,1
+22,2001,Pembroke Welsh Corgi,Ch. Coventry Queue,Steven Leyerly & Mrs. Alan Robson,Herding,False,1
+23,2000,Pembroke Welsh Corgi,Ch. Coventry Queue,Steven Leyerly & Mrs. Alan Robson,Herding,False,1
+24,1999,German Shepherd,Ch. Windwalker’s Yes Virginia,Jamie Walker & J. Greer,Herding,False,1
+25,1998,Old English Sheepdog,Ch. Lambluv’s Desert Dancer,Keiko Lascelles & Jere Marder,Herding,False,1
+26,1997,Shetland Sheepdog,Ch. Zion’s Man About Town,Madeleine Griffin-Cone,Herding,False,1
+27,1996,Bearded Collie,Ch. Diotima Bear Necessity,"P. McDonald, S. Lybrand & K. Kaye",Herding,False,1
+28,1995,Bouvier Des Flandres,Ch. Aristes Hematite Dragon,Jeffrey Bennett & Nan Eisley-Bennett,Herding,False,1
+29,1994,German Shepherd Dog,Ch. Altana’s Mystique,Jane A. Firestone,Herding,False,1
+30,1993,German Shepherd Dog,Ch. Altana’s Mystique,Jane A. Firestone,Herding,False,1
+31,1992,Bouvier Des Flandres,Ch. Galbraith’s Iron Eyes,Mr. & Mrs. N.J. Reese,Herding,False,1
+32,1991,Old English Sheepdog,Ch. Lambluv Moptop Show Stopper,Jere Marder,Herding,False,1
+33,1990,Shetland Sheepdog,Ch. Marwal Steppin’Out,Diane Bostwick,Herding,False,1
+34,1989,Puli,Ch. Wallbanger Kermit J Bounce,J. & M. McNeill & A. Bowley,Herding,False,1
+35,1988,Shetland Sheepdog,Ch. Rockwoods Gold Strike,Barbara M. Kenealy,Herding,False,1
+36,1987,German Shepherd Dog,Ch. Covy Tucker Hill’s Manhattan,Shirlee Braunstein & Jane A. Firestone,Herding,True,2
+37,1986,German Shepherd Dog,Ch. Covy Tucker Hill’s Manhattan,Shirlee Braunstein & Jane A. Firestone,Herding,False,1
+38,1985,Shetland Sheepdog,Ch. Rhodan’s The Windwalker,Kathleen Schmutz,Herding,False,1
+39,1984,German Shepherd Dog,Ch. Covy Tucker Hill’s Manhattan,Shirlee Braunstein & Jane A. Firestone,Herding,False,1
+40,1983,Belgian Tervuren,Ch. Corsairs Beaujangles,Steve Sorenson,Herding,False,1
+41,1982,None,None,None,Herding,False,0
+42,1981,None,None,None,Herding,False,0
+43,1980,None,None,None,Herding,False,0
+44,1979,None,None,None,Herding,False,0
+45,1978,None,None,None,Herding,False,0
+46,1977,None,None,None,Herding,False,0
+47,1976,None,None,None,Herding,False,0
+48,1975,None,None,None,Herding,False,0
+49,1974,None,None,None,Herding,False,0
+50,1973,None,None,None,Herding,False,0
+51,1972,None,None,None,Herding,False,0
+52,1971,None,None,None,Herding,False,0
+53,1970,None,None,None,Herding,False,0
+54,1969,None,None,None,Herding,False,0
+55,1968,None,None,None,Herding,False,0
+56,1967,None,None,None,Herding,False,0
+57,1966,None,None,None,Herding,False,0
+58,1965,None,None,None,Herding,False,0
+59,1964,None,None,None,Herding,False,0
+60,1963,None,None,None,Herding,False,0
+61,1962,None,None,None,Herding,False,0
+62,1961,None,None,None,Herding,False,0
+63,1960,None,None,None,Herding,False,0
+64,1959,None,None,None,Herding,False,0
+65,1958,None,None,None,Herding,False,0
+66,1957,None,None,None,Herding,False,0
+67,1956,None,None,None,Herding,False,0
+68,1955,None,None,None,Herding,False,0
+69,1954,None,None,None,Herding,False,0
+70,1953,None,None,None,Herding,False,0
+71,1952,None,None,None,Herding,False,0
+72,1951,None,None,None,Herding,False,0
+73,1950,None,None,None,Herding,False,0
+74,1949,None,None,None,Herding,False,0
+75,1948,None,None,None,Herding,False,0
+76,1947,None,None,None,Herding,False,0
+77,1946,None,None,None,Herding,False,0
+78,1945,None,None,None,Herding,False,0
+79,1944,None,None,None,Herding,False,0
+80,1943,None,None,None,Herding,False,0
+81,1942,None,None,None,Herding,False,0
+82,1941,None,None,None,Herding,False,0
+83,1940,None,None,None,Herding,False,0
+84,1939,None,None,None,Herding,False,0
+85,1938,None,None,None,Herding,False,0
+86,1937,None,None,None,Herding,False,0
+87,1936,None,None,None,Herding,False,0
+88,1935,None,None,None,Herding,False,0
+89,1934,None,None,None,Herding,False,0
+90,1933,None,None,None,Herding,False,0
+91,1932,None,None,None,Herding,False,0
+92,1931,None,None,None,Herding,False,0
+93,1930,None,None,None,Herding,False,0
+94,1929,None,None,None,Herding,False,0
+95,1928,None,None,None,Herding,False,0
+96,1927,None,None,None,Herding,False,0
+97,1926,None,None,None,Herding,False,0
+98,1925,None,None,None,Herding,False,0
+99,1924,None,None,None,Herding,False,0
